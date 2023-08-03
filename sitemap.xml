@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://phillipsvideopost.github.io/phillipsvideopost/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://phillipsvideopost.github.io/phillipsvideopost/</loc>
+</url>
+<url>
+<loc>https://phillipsvideopost.github.io/phillipsvideopost/contact/</loc>
+<lastmod>2023-08-03T12:18:16-06:00</lastmod>
+<image:image>
+<image:loc>https://phillipsvideopost.github.io/phillipsvideopost/media/posts/4/film_camera_headers.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://phillipsvideopost.github.io/phillipsvideopost/media/posts/4/contact_us.jpg</image:loc>
+<image:title><![CDATA[Contact Us]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://phillipsvideopost.github.io/phillipsvideopost/our-history/</loc>
+<lastmod>2023-08-03T12:46:13-06:00</lastmod>
+<image:image>
+<image:loc>https://phillipsvideopost.github.io/phillipsvideopost/media/posts/1/film_camera_headers.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://phillipsvideopost.github.io/phillipsvideopost/media/posts/1/about_us.jpg</image:loc>
+<image:title><![CDATA[About Us]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://phillipsvideopost.github.io/phillipsvideopost/our-services/</loc>
+<lastmod>2023-08-03T12:46:17-06:00</lastmod>
+<image:image>
+<image:loc>https://phillipsvideopost.github.io/phillipsvideopost/media/posts/2/film_camera_headers.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://phillipsvideopost.github.io/phillipsvideopost/media/posts/2/services_production.jpg</image:loc>
+<image:title><![CDATA[Production Services]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://phillipsvideopost.github.io/phillipsvideopost/media/posts/2/services_post_production.jpg</image:loc>
+<image:title><![CDATA[Post-production Services]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://phillipsvideopost.github.io/phillipsvideopost/media/posts/2/services_animation.jpg</image:loc>
+<image:title><![CDATA[Animation Services]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://phillipsvideopost.github.io/phillipsvideopost/media/posts/2/services_recording.jpg</image:loc>
+<image:title><![CDATA[Recording Services]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://phillipsvideopost.github.io/phillipsvideopost/media/posts/2/services_misc.jpg</image:loc>
+<image:title><![CDATA[Misc. Services]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://phillipsvideopost.github.io/phillipsvideopost/media/posts/2/services_peace_of_mind.jpg</image:loc>
+<image:title><![CDATA[Peace of Mind]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://phillipsvideopost.github.io/phillipsvideopost/samples-of-our-work/</loc>
+<lastmod>2023-08-03T14:27:25-06:00</lastmod>
+<image:image>
+<image:loc>https://phillipsvideopost.github.io/phillipsvideopost/media/posts/3/film_camera_headers.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://phillipsvideopost.github.io/phillipsvideopost/welcome/</loc>
+<lastmod>2023-08-03T14:49:05-06:00</lastmod>
+<image:image>
+<image:loc>https://phillipsvideopost.github.io/phillipsvideopost/media/posts/5/film_camera.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
